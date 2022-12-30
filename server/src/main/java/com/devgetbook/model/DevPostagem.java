@@ -5,7 +5,7 @@ import java.io.Serializable;
 import javax.persistence.Entity;
 import javax.persistence.*;
 import javax.persistence.Table;
-//teste
+//teste de commit
 @Entity
 @Table(name = "tb_postagem")
 public class DevPostagem implements Serializable {
