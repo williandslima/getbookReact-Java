@@ -1,1 +1,4 @@
-Projeto getbook com Api em Java e Cliente em React
+Projeto getbook com 
+Servidor em Java com framework Spring Boot 
+Cliente em React Js
+
